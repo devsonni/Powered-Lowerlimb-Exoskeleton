@@ -1,3 +1,3 @@
 # 🤖 Powered Lowerlimb Exoskeleton 🦿       
-## ➡️ Design 🖥️🛠️ 
+## 💥 Design 🖥️🛠️ 
 
