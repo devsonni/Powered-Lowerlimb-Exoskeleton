@@ -2,7 +2,7 @@
 ## 💥 Design 🖥️🛠️    
 ### 🧿 Exoskeleton designed using **SOLIDWORKS** and animation made using **SOLIDWORKS Visualize**       
       
-<img align="middle" height="400" width="700" src="https://github.com/devsonni/Powered-Lowerlimb-Exoskeleton/blob/main/Docs/Exoskeleton%20Gif%20Cropped.gif">     
+<img align="middle" height="400" width="600" src="https://github.com/devsonni/Powered-Lowerlimb-Exoskeleton/blob/main/Docs/Exoskeleton%20Gif%20Cropped.gif">     
 
 ## 🎛️ Controls & Electronics 🔌    
 ### 🧿 Circuit diagram made using **fritzing**             
