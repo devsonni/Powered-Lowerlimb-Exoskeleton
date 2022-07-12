@@ -12,6 +12,6 @@
 <img align="middle" height="550" width="700" src="https://github.com/devsonni/Powered-Lowerlimb-Exoskeleton/blob/main/Docs/Named_Exoskeleton_control_board.jpg">
 
 ### 🧿 Working     
-<img align="middle" height="400" width="600" src="https://github.com/devsonni/Powered-Lowerlimb-Exoskeleton/blob/main/Docs/WALKING%20FOR%20GIF.gif">     
+<img align="middle" height="300" width="600" src="https://github.com/devsonni/Powered-Lowerlimb-Exoskeleton/blob/main/Docs/WALKING%20FOR%20GIF.gif">     
 
-<img align="middle" height="400" width="600" src="https://github.com/devsonni/Powered-Lowerlimb-Exoskeleton/blob/main/Docs/WALKING%202%20FOR%20GIF.gif">
+<img align="middle" height="300" width="600" src="https://github.com/devsonni/Powered-Lowerlimb-Exoskeleton/blob/main/Docs/WALKING%202%20FOR%20GIF.gif">
